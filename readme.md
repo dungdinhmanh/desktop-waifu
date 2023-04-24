@@ -28,7 +28,8 @@ Running AI Waifu Assistant is easy and straightforward! Here's how you can get s
 - OpenAI API key, you can find it [here](https://platform.openai.com/account/api-keys).
 ### ⚙️ Optional
 - Elevenlabs key, you can find it [here](https://beta.elevenlabs.io/subscription).
-
+- [Python](https://www.python.org/downloads/), need to run AI
+- [Node.js](https://nodejs.org/en/download), download the Windows Installer
 📥 Running:
 
 - First, you need to download this repository. You can do this by [clicking here](https://github.com/AlizerUncaged/desktop-waifu/archive/refs/heads/master.zip).
