@@ -10,9 +10,9 @@ CHARACTERAI_PORT = 40102
 TEMP_FILE = "voicevox.tmp"
 
 FFMPEG_DIRECT_LINK = "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip"
-VOICEVOX_DIRECT_LINK = "https://github.com/VOICEVOX/voicevox_engine/releases/download/0.14.4/voicevox_engine-windows-nvidia-0.14.4.7z.001"
+VOICEVOX_DIRECT_LINK = "https://github.com/VOICEVOX/voicevox_engine/releases/download/0.14.5/voicevox_engine-windows-cpu-0.14.5.7z.001"
 
-HARDCODED_VOICEVOX_ARCHIVE_ROOT_FOLDER = "windows-nvidia"
+HARDCODED_VOICEVOX_ARCHIVE_ROOT_FOLDER = "windows-cpu"
 VOICE = os.environ.get("VOICE") 
 
 def donwload(url, temp):
